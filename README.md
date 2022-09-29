@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Timothee Muzaliwa @muztim
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python, R, SQL abd Excel
+- 🌱 I’m currently learning python, R, SQL and Excel
 - 📫 you can reach me on email: tmuzaliwwa@gmail.com; Twitter @timmuz; Instagram @muztim
 
 <!---
